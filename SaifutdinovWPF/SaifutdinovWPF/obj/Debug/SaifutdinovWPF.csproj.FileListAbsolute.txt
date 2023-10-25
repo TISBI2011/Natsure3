@@ -1,0 +1,15 @@
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.csproj.AssemblyReference.cache
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\App.g.cs
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF_MarkupCompile.cache
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\bin\Debug\SaifutdinovWPF.exe.config
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\bin\Debug\SaifutdinovWPF.exe
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\bin\Debug\SaifutdinovWPF.pdb
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\MainWindow.g.cs
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF_MarkupCompile.lref
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\MainWindow.baml
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.g.resources
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.Properties.Resources.resources
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.csproj.GenerateResource.cache
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.csproj.CoreCompileInputs.cache
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.exe
+Y:\Cайфутдинов Рушан\4 Курс\ТРПО\SaifutdinovWPF\SaifutdinovWPF\obj\Debug\SaifutdinovWPF.pdb
